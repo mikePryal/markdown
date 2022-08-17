@@ -7,4 +7,4 @@
 Добавлять изображения через написание команды ![cap](img/foto.png) gfgfgfgfgf
 создать ссылку [!C:\Users\ЧСН\Desktop\для семинаров гигбрейнс\myproject_m\myproject_m\markdown&git\logo1.htm]
 Добавить цитаты знаком (>) > Просто цитата  как пример цитаты
-создал новую ветку new_branch_second
+для конфликта second создал новую ветку new_branch_second
